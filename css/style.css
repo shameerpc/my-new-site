@@ -1,0 +1,144 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    
+}
+h1 {
+    width: 10%;
+    margin: 0 auto;
+    
+    font-size: 5.625rem;
+    font-family: 'Caramel', cursive;
+    margin-top: 100px;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+
+}
+h3 {
+    color: #11999E;
+}
+hr {
+    border: dotted #EAF6F6 6px ;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+p{
+    font-family: 'EB Garamond', serif;
+    line-height: 2;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   left: 250px;
+   bottom: 300px;
+
+}
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 40px;
+}
+.pro {
+    text-decoration: underline;
+}
+
+
+.my-image {
+    border-radius: 50%;
+    width: 25%;
+    
+}
+.computer {
+    float: right;
+    width: 25%;
+    margin-right: 30px;
+    
+    
+}
+.skill-image {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.footer-link {
+    color: #11999E;
+}
+.prgrammer {
+    font-weight: normal;
+    height: 2px;
+
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.middle-container {
+    margin: 100px auto;
+}
+.intro {
+    margin: auto;
+    width: 20%;
+}
+.contact-text {
+    width: 40%;
+    margin: 40px auto 40px; 
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 60px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 29;
+    -moz-border-radius: 29;
+    border-radius: 29px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px 29px 13px 24px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0d132e;
+    background-image: -webkit-linear-gradient(top, #0d132e, #00d4f0);
+    background-image: -moz-linear-gradient(top, #0d132e, #00d4f0);
+    background-image: -ms-linear-gradient(top, #0d132e, #00d4f0);
+    background-image: -o-linear-gradient(top, #0d132e, #00d4f0);
+    background-image: linear-gradient(to bottom, #0d132e, #00d4f0);
+    text-decoration: none;
+  }
+  a {
+     color:#11999E;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     margin:10px 20px;
+     text-decoration: none;
+  }
+  a:hover{
+      color: #EAF6F6;
+  }
+  .copyright{
+      color: #EAF6F6;
+      font-size: 0.75rem;
+      padding: 20px o;
+  }
+
